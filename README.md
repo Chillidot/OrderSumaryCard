@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Chillidot/OrderSumaryCard)
-- Live Site URL: [Add live site URL here](https://chillidot.github.io/OrderSumaryCard/)
+- Solution URL: [https://github.com/Chillidot/OrderSumaryCard]
+- Live Site URL: [https://chillidot.github.io/OrderSumaryCard/]
 
 ## My process
 
